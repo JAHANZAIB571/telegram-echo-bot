@@ -5,3 +5,6 @@ Echo Functionality: Sends back whatever you type (except commands) in bold and u
 Commands: /start for a welcome message, /help for usage instructions.
 Terminal Logging: Logs every action in the terminal with timestamps.
 Easy Setup: One file, one dependency, and you’re good to go!
+
+Dependencies Install:
+pip install -r requirements.txt
