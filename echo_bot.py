@@ -9,7 +9,7 @@ logging.basicConfig(
 )
 
 # Initialize the bot with your provided Bot Token
-# 🔑 Token: 8063661813:AAEyg7FN7rGccYDwHf0UmI3aWMY6dQfZqH0
+# 🔑 Token: Enter your token
 bot = telebot.TeleBot('Enter your bot father token')
 
 # Handler for the /start command
