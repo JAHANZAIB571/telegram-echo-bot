@@ -10,7 +10,7 @@ logging.basicConfig(
 
 # Initialize the bot with your provided Bot Token
 # 🔑 Token: 8063661813:AAEyg7FN7rGccYDwHf0UmI3aWMY6dQfZqH0
-bot = telebot.TeleBot('8063661813:AAEyg7FN7rGccYDwHf0UmI3aWMY6dQfZqH0')
+bot = telebot.TeleBot('Enter your bot father token')
 
 # Handler for the /start command
 @bot.message_handler(commands=['start'])
